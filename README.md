@@ -1,7 +1,7 @@
 # ARMCMC
 Adaptive Recursive Markov Chain Monte Carlo
 
-This project lists all of the deliverables for the ARMCMC paper in AAAI 2023.
+This project lists all of the deliverables for the ARMCMC paper in RA-L/ IROS 2023.
 
 
 ## Requirements
@@ -41,6 +41,13 @@ run the mld file(s) for model and appaorch integrated in simulink (refer to the 
 ### Supplementary Material:
 * [MCMC](https://github.com/mjlaine/mcmcstat)
 
-## Authors
+## How to cite:
 
-* **Anonymous
+```
+  @article{agand2022online,
+  title={Online Probabilistic Model Identification using Adaptive Recursive MCMC},
+  author={Agand, Pedram and Chen, Mo and Taghirad, Hamid D},
+  journal={arXiv preprint arXiv:2210.12595},
+  year={2022}
+}
+```
