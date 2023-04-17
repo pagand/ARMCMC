@@ -47,7 +47,7 @@ run the mld file(s) for model and appaorch integrated in simulink (refer to the 
 @inproceedings{agand2022online,
   title={Online Probabilistic Model Identification using Adaptive Recursive MCMC},
   author={Agand, Pedram and Chen, Mo and Taghirad, Hamid D},
-  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
   pages={1--6},
   year={2023},
   organization={IEEE}
