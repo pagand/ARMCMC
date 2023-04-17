@@ -44,10 +44,12 @@ run the mld file(s) for model and appaorch integrated in simulink (refer to the 
 ## How to cite:
 
 ```
-  @article{agand2022online,
+@inproceedings{agand2022online,
   title={Online Probabilistic Model Identification using Adaptive Recursive MCMC},
   author={Agand, Pedram and Chen, Mo and Taghirad, Hamid D},
-  journal={arXiv preprint arXiv:2210.12595},
-  year={2022}
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
 }
 ```
